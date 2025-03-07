@@ -181,14 +181,13 @@ const CustomHeart = ({ color }) => (
 );
 
 const messages = [
-    "Chúc (...) 8/3 vui vẻ nhá , ngày càng xinh, đẹp học giỏi và ngoan ngoãn nha.",
+    "Chúc nhung 8/3 vui vẻ nhá , ngày càng xinh, đẹp học giỏi và ngoan ngoãn nha.",
     "Luôn tự tin vào chính mình, tiếp tục vươn tới những ước mơ và luôn tràn đầy năng lượng tích cực.",
     "Dù cuộc sống có đôi lúc khó khăn, bạn vẫn luôn giữ được nụ cười và sự lạc quan =)).",
-    "Mong (...) luôn tin vào bản thân,không ngừng nỗ lực và vươn lên, vì (...) xứng đáng với mọi điều tốt đẹp hơn mà :>.",
+    "Mong nhung luôn tin vào bản thân,không ngừng nỗ lực và vươn lên, vì nhung xứng đáng với mọi điều tốt đẹp hơn mà :>.",
     "Điểm số trong các môn học đạt được kết quả như ý nhaaa !!!.",
-    "Chúc mừng ngày phụ nữ việt nam , chúc (...) có một ngày thật may mắn nhé."
+    "Chúc mừng ngày phụ nữ việt nam , chúc nhung có một ngày thật may mắn nhé."
 ];
-
 // Then update the MessageCard component to accept and pass the prop:
 
 const FullscreenOverlay = styled(motion.div)`
